@@ -1,4 +1,4 @@
-video_id,seconds,fps,numFrame,rfps,subset,featureFrame
+video,seconds,fps,numFrame,rfps,subset,featureFrame
 SMN6WFVy-Ys,12,30,360,30,training,360
 Di4eEBZjkA4,1,24,24,24,training,24
 OT88wS6FLoQ,10,30,300,30,testing,300
